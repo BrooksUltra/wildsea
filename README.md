@@ -70,6 +70,8 @@ See [CHANGELOG.md](CHANGELOG.md) for the full technical detail on every change a
 - **Custom journal styling** has been removed. The `WildseaJournalSheet` class is no longer compatible with v14's journal API. Journals open correctly using Foundry's default sheet, but will not use the Wildsea custom window dimensions.
 - This patch does not migrate the system to Foundry's newer **Data Models** API or **ApplicationV2** sheet framework. Both are best-practice recommendations for new system development but are not required for compatibility, and implementing them would be a near-complete rewrite.
 
+## AI Assistance
+This patch was developed with the assistance of Claude (Anthropic) as a coding aid. All suggested changes were reviewed against the original source code before being accepted or rejected. If you encounter any bugs, please open an issue and we'll investigate.
 ---
 
 ## Credits
