@@ -1,3 +1,6 @@
+# FoundryVTT LevelDB runtime lock files
+packs/*/LOCK
+
 # Logs
 logs
 *.log
